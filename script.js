@@ -321,7 +321,7 @@ let telefono = "522463310122";
 
 
 let mensaje =
-"Mnadame mensajito para organizarnos <3";
+"Mandame mensajito para organizarnos <3";
 
 
 
